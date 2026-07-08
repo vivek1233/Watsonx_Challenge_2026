@@ -1,0 +1,28 @@
+# Draft Specification - WatsonX Challenge 2026
+
+## Project Overview
+[Describe the project overview here]
+
+## Objectives
+- [Objective 1]
+- [Objective 2]
+- [Objective 3]
+
+## Requirements
+### Functional Requirements
+- [Requirement 1]
+- [Requirement 2]
+
+### Non-Functional Requirements
+- [Requirement 1]
+- [Requirement 2]
+
+## Architecture
+[Describe the architecture here]
+
+## Timeline
+- [Milestone 1]
+- [Milestone 2]
+
+## Notes
+[Additional notes here]
